@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in artificial intelligence, data science, and web development
 - 🌱 I’m currently learning machine learning 
-- 📫 You can reach me via [LinkedIn](www.linkedin.com/in/paristchefor) or my [email](paristchefor@gmail.com)
+- 📫 You can reach me via [LinkedIn](www.linkedin.com/in/paristchefor) or my email paristchefor@gmail.com
 - ⚡ Fun fact: I like to make jewelry and go to the gym 💪
 
 ### Tech Stacks

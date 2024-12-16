@@ -11,3 +11,6 @@
 - **Libraries & Frameworks:** scikit-learn, PyTorch, Pandas, NumPy, TensorFlow, matplotlib
 - **Development Tools:** Jupyter Notebooks, Google Colab, VS Code
 - **Version Control**: Git, GitHub, BitBucket
+
+### Google Machine Learning Challenge Project (Break Through Tech AI Program)
+Check out my team's project repository for the real-world ML project we worked on for Google for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio [here](https://github.com/paristchefor/Google-2B-Search-Query-Recommendation-System)!

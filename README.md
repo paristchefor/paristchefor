@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Paris Tchefor
-### A passionate machine learning engineer from Arizona!
+### A passionate data scientist from Arizona!
 
 - 👀 I’m interested in artificial intelligence, data science, and web development
 - 🌱 I’m currently learning machine learning 
